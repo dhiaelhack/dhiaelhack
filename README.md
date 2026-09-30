@@ -1,115 +1,154 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00C2A8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dhia+Elhack+%F0%9F%91%8B;Telecom+%26+Software+Engineering+Student;Java+%2F+Full-Stack+%2F+DevOps;Looking+for+a+6-month+PFE+internship+-+Feb+2027" alt="Typing SVG" />
-
+  <img src="assets/header.svg" alt="Dhia Elhack NSIBI — Software Engineering | DevOps | Cloud & Infrastructure. Open to a 5–6 month PFE, January/February 2027." width="100%" />
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nsibi-dhia-elhack-01290b245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nsibidhiaelhack@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://nsibi-dhia-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://gitlab.com/nsibidhiaelhack"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nsibi-dhia-elhack-01290b245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://dhiaelhack.dev"><img src="https://img.shields.io/badge/Portfolio-dhiaelhack.dev-00C2A8?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:nsibidhiaelhack@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://gitlab.com/nsibidhiaelhack"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" /></a>
 </p>
 
-<p align="center">📍 Bizerte, Tunisia &nbsp;|&nbsp; 🎓 ENISo — Embedded Telecom & Networks Engineering &nbsp;|&nbsp; 🟢 Open to a 6-month PFE internship from Feb 2027</p>
+<p align="center">
+  📍 Bizerte, Tunisia &nbsp;·&nbsp; 🎓 ENISo — Embedded Telecommunications Engineering &nbsp;·&nbsp; 🟢 PFE from January/February 2027
+</p>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-### 👋 About me
+## 👋 About me
 
-I'm an engineering student at **ENISo** (École Nationale d'Ingénieurs de Sousse), specializing in **Embedded Telecommunications & Networks**. Along the way I've leaned hard into **software development** — Java, full-stack apps, Linux systems, containerization, and CI/CD.
+Final-year engineering student at **ENISo** (École Nationale d'Ingénieurs de Sousse), oriented towards **Software Engineering → DevOps → Cloud & Infrastructure**, with a strong **Networks & Systems** foundation.
 
-- 🔭 Currently sharpening **Java & full-stack (Angular)** skills for my final-year internship search
-- 🛡️ Comfortable across the stack: from **POSIX systems programming** to **DevSecOps pipelines** to **network protocols** (OSPF, BGP, MPLS)
-- 🧑‍🤝‍🧑 Founder & President of the **ACM student chapter at ENISo**
-- 🌍 Arabic (native) · French (fluent) · English (fluent)
-- 📫 nsibidhiaelhack@gmail.com
+I build applications in **Python** and **Java**, automate **CI/CD** pipelines with **GitLab** and **Docker**, deploy on **Microsoft Azure**, and work on network and system infrastructure — from **MPLS/VPN backbones (OSPF, BGP, MP-BGP)** to network supervision.
 
----
+```yaml
+role:           Final-year engineering student @ ENISo
+target:         Software Engineering | DevOps | Cloud & Infrastructure
+differentiator: Networks & Systems (MPLS/VPN, BGP, OSPF)
+complementary:  Security · Applied AI · Embedded systems
+looking_for:    PFE, 5–6 months, from January/February 2027
+languages:      Arabic (native) · French (fluent) · English (fluent)
+community:      Founder & President, ACM student chapter @ ENISo
+```
 
-### 💼 Experience
+🔭 Currently deepening **Java & full-stack** development (Spring Boot, Angular).
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 💼 Experience
+
+| Period | Role | Scope |
+|---|---|---|
+| **Jul – Aug 2026** | **Network & Systems Administration Intern** — SOTULUB (Tunisia) | Administration and supervision of the network and system infrastructure; support for troubleshooting and maintenance. |
+| **Jul – Aug 2025** | **Software Development Intern, Network Supervision** — SOTETEL (Tunisia) | Developed a network supervision software component within the data center team, in collaboration with network administrators. |
+| **2025 – Present** | **Founder & President** — ACM Student Chapter, ENISo | Obtained the official ACM chapter affiliation and set up its organization; organizes technical and programming events. |
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🚀 Selected projects
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**SOTULUB**
-*Network & Systems Admin Intern*
-Jul – Aug 2026
+### 🔐 DevSecOps CI/CD Pipeline
+Full-stack platform with an automated **GitLab CI/CD** and **Docker** pipeline, integrating **SonarQube** for code quality and **OWASP ZAP** for security risk assessment. Deployed on **Microsoft Azure** with **MongoDB Atlas**.
 
-Helped administer and monitor the company's network/Linux infrastructure; contributed to diagnostics and maintenance of IT components.
-
-</td>
-<td width="33%" valign="top">
-
-**SOTETEL**
-*Software Dev Intern — Network Supervision*
-Jul – Aug 2025
-
-Contributed to a network supervision software component with the data center team, aligning tooling with operational needs.
+`GitLab CI/CD` `Docker` `SonarQube` `OWASP ZAP` `Azure` `MongoDB Atlas`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**ACM ENISo Chapter**
-*Founder & President*
-2025 – Present
+### 🌐 VPN-MPLS Network Architecture
+Multi-site **MPLS/VPN** backbone emulated with **GNS3**, **Docker** and **FRRouting**. Implemented **OSPF**, **BGP** and **MP-BGP**, then validated routing and label switching with **Wireshark**.
 
-Founded the student chapter; organizes technical events and coding activities, leading end-to-end team and project coordination.
+`GNS3` `Docker` `FRRouting` `OSPF` `BGP` `MP-BGP` `Wireshark`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦉 HuginnWatch — Network & Server Security Monitoring
+Infrastructure monitoring platform built with **FastAPI** and **Streamlit**: **Nmap** vulnerability scans, alerting, and anomaly detection from telemetry data.
+
+`FastAPI` `Streamlit` `Nmap`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Agentic RAG Assistant
+Document question-answering system with **LangChain**, a **ReAct** agent and **Pinecone**; retrieval quality, tool usage and failure cases analyzed with **LangSmith**.
+
+`LangChain` `ReAct` `Pinecone` `LangSmith`
 
 </td>
 </tr>
 </table>
 
----
+<details>
+<summary><b>📂 Other projects</b></summary>
 
-### 🚀 Selected projects
+<br>
 
-**🔐 Secure DevSecOps CI/CD Pipeline**
-Full-stack platform with an automated GitLab CI / Docker pipeline — build, test, and integrated **SonarQube** + **OWASP ZAP** for code quality and vulnerability scanning.
+- 🐚 **LAS Shell** — Unix shell written in C: processes, IPC, pipelines, redirections, signals, background jobs, history and aliases.
+- 👤 **Real-time facial recognition** — Detection and recognition pipeline with Flask, OpenCV and TensorFlow, trained and tested on custom images.
+- ☀️ **Smart solar tracker** — Autonomous solar orientation prototype on ESP32 with LDR sensors and servo motors, in C/C++ (differential light-intensity control).
+- 🚗 **Real-time GSM/GPS vehicle tracking** — SIM800L-based embedded system for position transmission, live mapping and trip history.
+- 📡 **AI-assisted integrated antenna systems** — Literature review of AI/ML approaches applied to integrated antennas.
 
-**🦉 HuginnWatch — Network & Server Security Monitoring**
-A monitoring platform (**FastAPI** + **Streamlit**) with **Nmap**-based vulnerability scanning, alerting, and telemetry-based anomaly detection.
+</details>
 
-**🐚 LAS Shell — POSIX Shell in C**
-A Unix shell built from scratch in C on Linux: process management, IPC, pipelines, redirection, signals, background jobs, history, and aliases.
+> Repositories: [GitLab](https://gitlab.com/nsibidhiaelhack) · [GitHub](https://github.com/dhiaelhack) · more on [dhiaelhack.dev](https://dhiaelhack.dev)
 
-**🌐 VPN-MPLS Network Architecture**
-Designed and emulated a multi-site MPLS/VPN backbone with **GNS3**, **Docker**, and **FRRouting**; configured OSPF, BGP, and MP-BGP.
+<img src="assets/divider.svg" width="100%" alt="" />
 
-*(Some of these live on GitLab — check the badge above 👆)*
-
----
-
-### 🛠️ Tech stack
+## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,angular,nodejs,fastapi,flask,docker,gitlab,linux,bash,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,js,ts,nodejs,express,angular,scala,fastapi,flask,git,gitlab,docker,azure,mongodb,grafana,prometheus,linux,c,cpp&perline=11" alt="Tech stack icons" />
 </p>
 
-**Security & Networking:** Nmap · OWASP ZAP · SonarQube · OSPF · BGP · MP-BGP · MPLS/VPN · GNS3 · FRRouting
+| Category | Technologies |
+|---|---|
+| **Development** | Python (FastAPI, Flask) · Java (Spring Boot) · JavaScript/TypeScript (Node.js/Express, Angular) · Scala |
+| **DevOps & Cloud** | Git · GitLab CI/CD · Docker · Microsoft Azure · SonarQube · Grafana · Prometheus |
+| **Networks & Systems** | Linux · OSPF · BGP · MP-BGP · MPLS/VPN · GNS3 · FRRouting · Wireshark |
+| **Security** | OWASP ZAP · Nmap · pfSense |
+| **Databases** | MongoDB · MongoDB Atlas |
+| **AI & Data** | LangChain (ReAct agents, RAG) · Pinecone · LangSmith · TensorFlow · OpenCV |
+| **Embedded** | C/C++ · ESP32 · STM32 · Raspberry Pi · SIM800L · POSIX C (processes, IPC, signals) |
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-### 🏅 Certifications & activities
+## 🏅 Certifications & activities
 
 - 🧠 **NVIDIA Deep Learning Institute** certificate — Natural Language Processing
-- 🧪 Active member, **Eureka Club** & **Orange Digital Center Club**
+- 🧪 Active member of **Eureka Club** and **Orange Digital Center Club**
 - 🏆 Hackathon participant — embedded systems, IoT & AI
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-### 📊 GitHub stats
+## 📈 Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhiaelhack/dhiaelhack/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhiaelhack/dhiaelhack/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/dhiaelhack/dhiaelhack/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<details>
+<summary><b>GitHub stats</b></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhiaelhack&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=dhiaelhack&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhiaelhack&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiaelhack&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiaelhack&layout=compact&theme=radical&hide_border=true" width="55%" />
-</p>
+</details>
 
----
-
-<p align="center"><i>🎯 Actively looking for a 6-month PFE internship starting February 2027 — Java / Full-Stack / CI-CD. Let's talk!</i></p>
+<div align="center">
+  <img src="assets/footer.svg" alt="Thanks for stopping by — dhiaelhack.dev" width="100%" />
+</div>

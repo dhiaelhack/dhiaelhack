@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Dhia Elhack NSIBI — Software Engineering, DevOps, Cloud and Infrastructure. Open to a 5 to 6 month PFE, January/February 2027.">
+<title>Dhia Elhack NSIBI — Software Engineering | DevOps | Cloud &amp; Infrastructure</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#0E2B36"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#00C2A8" stop-opacity="0.22"/><stop offset="1" stop-color="#00C2A8" stop-opacity="0"/></radialGradient>
+<linearGradient id="nm" x1="0" x2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#00C2A8"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#FFFFFF" stroke-opacity="0.05"/></pattern>
+<clipPath id="c0"><rect x="84" y="164" width="0" height="36"><animate attributeName="width" dur="20s" repeatCount="indefinite" keyTimes="0;0.1;0.21;0.24;1" values="0;240;240;0;0"/></rect></clipPath>
+<clipPath id="c1"><rect x="84" y="164" width="0" height="36"><animate attributeName="width" dur="20s" repeatCount="indefinite" keyTimes="0;0.25;0.35;0.46;0.49;1" values="0;0;384;384;0;0"/></rect></clipPath>
+<clipPath id="c2"><rect x="84" y="164" width="0" height="36"><animate attributeName="width" dur="20s" repeatCount="indefinite" keyTimes="0;0.5;0.6;0.71;0.74;1" values="0;0;360;360;0;0"/></rect></clipPath>
+<clipPath id="c3"><rect x="84" y="164" width="0" height="36"><animate attributeName="width" dur="20s" repeatCount="indefinite" keyTimes="0;0.75;0.85;0.96;0.99;1" values="0;0;420;420;0;0"/></rect></clipPath>
+</defs>
+<rect width="1000" height="300" rx="16" fill="url(#bg)"/>
+<rect width="1000" height="300" rx="16" fill="url(#grid)"/>
+<circle cx="780" cy="165" r="170" fill="url(#glow)"><animate attributeName="r" dur="6s" repeatCount="indefinite" values="150;190;150"/></circle>
+<line x1="600" y1="165" x2="690" y2="165" stroke="#00C2A8" stroke-opacity="0.30" stroke-width="1.4"/>
+<line x1="690" y1="165" x2="785" y2="95" stroke="#00C2A8" stroke-opacity="0.30" stroke-width="1.4"/>
+<line x1="690" y1="165" x2="785" y2="235" stroke="#00C2A8" stroke-opacity="0.30" stroke-width="1.4"/>
+<line x1="785" y1="95" x2="785" y2="235" stroke="#00C2A8" stroke-opacity="0.30" stroke-width="1.4"/>
+<line x1="785" y1="95" x2="880" y2="165" stroke="#00C2A8" stroke-opacity="0.30" stroke-width="1.4"/>
+<line x1="785" y1="235" x2="880" y2="165" stroke="#00C2A8" stroke-opacity="0.30" stroke-width="1.4"/>
+<line x1="880" y1="165" x2="955" y2="165" stroke="#00C2A8" stroke-opacity="0.30" stroke-width="1.4"/>
+<circle r="3" fill="#fff"><animateMotion dur="5s" begin="0s" repeatCount="indefinite" path="M600 165 L690 165 L785 95 L880 165 L955 165"/><animate attributeName="opacity" dur="5s" begin="0s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;0.1;0.9;1"/></circle>
+<circle r="3" fill="#fff"><animateMotion dur="5.5s" begin="1.2s" repeatCount="indefinite" path="M955 165 L880 165 L785 235 L690 165 L600 165"/><animate attributeName="opacity" dur="5.5s" begin="1.2s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;0.1;0.9;1"/></circle>
+<circle r="3" fill="#fff"><animateMotion dur="3s" begin="0.5s" repeatCount="indefinite" path="M690 165 L785 235 L880 165"/><animate attributeName="opacity" dur="3s" begin="0.5s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;0.1;0.9;1"/></circle>
+<circle r="3" fill="#fff"><animateMotion dur="3.4s" begin="2s" repeatCount="indefinite" path="M880 165 L785 95 L690 165"/><animate attributeName="opacity" dur="3.4s" begin="2s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;0.1;0.9;1"/></circle>
+<circle cx="600" cy="165" r="7" fill="none" stroke="#00C2A8" stroke-width="1.5"><animate attributeName="r" dur="3s" begin="0.0s" repeatCount="indefinite" values="7;17;17" keyTimes="0;0.7;1"/><animate attributeName="opacity" dur="3s" begin="0.0s" repeatCount="indefinite" values="0.7;0;0" keyTimes="0;0.7;1"/></circle>
+<circle cx="600" cy="165" r="7" fill="#0B1220" stroke="#00C2A8" stroke-width="2"/><circle cx="600" cy="165" r="2.6" fill="#00C2A8"/>
+<text x="600" y="149" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8B9BB0">CE</text>
+<circle cx="690" cy="165" r="7" fill="none" stroke="#00C2A8" stroke-width="1.5"><animate attributeName="r" dur="3s" begin="0.5s" repeatCount="indefinite" values="7;17;17" keyTimes="0;0.7;1"/><animate attributeName="opacity" dur="3s" begin="0.5s" repeatCount="indefinite" values="0.7;0;0" keyTimes="0;0.7;1"/></circle>
+<circle cx="690" cy="165" r="7" fill="#0B1220" stroke="#00C2A8" stroke-width="2"/><circle cx="690" cy="165" r="2.6" fill="#00C2A8"/>
+<text x="690" y="149" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8B9BB0">PE</text>
+<circle cx="785" cy="95" r="7" fill="none" stroke="#00C2A8" stroke-width="1.5"><animate attributeName="r" dur="3s" begin="1.0s" repeatCount="indefinite" values="7;17;17" keyTimes="0;0.7;1"/><animate attributeName="opacity" dur="3s" begin="1.0s" repeatCount="indefinite" values="0.7;0;0" keyTimes="0;0.7;1"/></circle>
+<circle cx="785" cy="95" r="7" fill="#0B1220" stroke="#00C2A8" stroke-width="2"/><circle cx="785" cy="95" r="2.6" fill="#00C2A8"/>
+<text x="785" y="79" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8B9BB0">P</text>
+<circle cx="785" cy="235" r="7" fill="none" stroke="#00C2A8" stroke-width="1.5"><animate attributeName="r" dur="3s" begin="1.5s" repeatCount="indefinite" values="7;17;17" keyTimes="0;0.7;1"/><animate attributeName="opacity" dur="3s" begin="1.5s" repeatCount="indefinite" values="0.7;0;0" keyTimes="0;0.7;1"/></circle>
+<circle cx="785" cy="235" r="7" fill="#0B1220" stroke="#00C2A8" stroke-width="2"/><circle cx="785" cy="235" r="2.6" fill="#00C2A8"/>
+<text x="785" y="261" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8B9BB0">P</text>
+<circle cx="880" cy="165" r="7" fill="none" stroke="#00C2A8" stroke-width="1.5"><animate attributeName="r" dur="3s" begin="2.0s" repeatCount="indefinite" values="7;17;17" keyTimes="0;0.7;1"/><animate attributeName="opacity" dur="3s" begin="2.0s" repeatCount="indefinite" values="0.7;0;0" keyTimes="0;0.7;1"/></circle>
+<circle cx="880" cy="165" r="7" fill="#0B1220" stroke="#00C2A8" stroke-width="2"/><circle cx="880" cy="165" r="2.6" fill="#00C2A8"/>
+<text x="880" y="149" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8B9BB0">PE</text>
+<circle cx="955" cy="165" r="7" fill="none" stroke="#00C2A8" stroke-width="1.5"><animate attributeName="r" dur="3s" begin="2.5s" repeatCount="indefinite" values="7;17;17" keyTimes="0;0.7;1"/><animate attributeName="opacity" dur="3s" begin="2.5s" repeatCount="indefinite" values="0.7;0;0" keyTimes="0;0.7;1"/></circle>
+<circle cx="955" cy="165" r="7" fill="#0B1220" stroke="#00C2A8" stroke-width="2"/><circle cx="955" cy="165" r="2.6" fill="#00C2A8"/>
+<text x="955" y="149" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8B9BB0">CE</text>
+<text x="56" y="62" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#8B9BB0">// Final-year engineering student · ENISo</text>
+<text x="56" y="120" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="url(#nm)">Dhia Elhack NSIBI</text>
+<text x="56" y="190" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#00C2A8">$</text>
+<text x="84" y="190" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#E6EDF3" textLength="240" lengthAdjust="spacingAndGlyphs" clip-path="url(#c0)">Software Engineering</text>
+<g opacity="0"><animate attributeName="opacity" dur="20s" repeatCount="indefinite" keyTimes="0;0.235;0.24;1" values="1;1;0;0"/><rect x="84" y="171" width="2.5" height="24" fill="#00C2A8"><animate attributeName="x" dur="20s" repeatCount="indefinite" keyTimes="0;0.1;0.21;0.24;1" values="84;326;326;84;84"/><animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;1;0;0;1" keyTimes="0;0.5;0.51;0.99;1"/></rect></g>
+<text x="84" y="190" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#E6EDF3" textLength="384" lengthAdjust="spacingAndGlyphs" clip-path="url(#c1)">DevOps · CI/CD · GitLab · Docker</text>
+<g opacity="0"><animate attributeName="opacity" dur="20s" repeatCount="indefinite" keyTimes="0;0.248;0.25;0.485;0.49;1" values="0;0;1;1;0;0"/><rect x="84" y="171" width="2.5" height="24" fill="#00C2A8"><animate attributeName="x" dur="20s" repeatCount="indefinite" keyTimes="0;0.25;0.35;0.46;0.49;1" values="84;84;470;470;84;84"/><animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;1;0;0;1" keyTimes="0;0.5;0.51;0.99;1"/></rect></g>
+<text x="84" y="190" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#E6EDF3" textLength="360" lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)">Cloud &amp; Infrastructure · Azure</text>
+<g opacity="0"><animate attributeName="opacity" dur="20s" repeatCount="indefinite" keyTimes="0;0.498;0.5;0.735;0.74;1" values="0;0;1;1;0;0"/><rect x="84" y="171" width="2.5" height="24" fill="#00C2A8"><animate attributeName="x" dur="20s" repeatCount="indefinite" keyTimes="0;0.5;0.6;0.71;0.74;1" values="84;84;446;446;84;84"/><animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;1;0;0;1" keyTimes="0;0.5;0.51;0.99;1"/></rect></g>
+<text x="84" y="190" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#E6EDF3" textLength="420" lengthAdjust="spacingAndGlyphs" clip-path="url(#c3)">Networks &amp; Systems · MPLS/VPN · BGP</text>
+<g opacity="0"><animate attributeName="opacity" dur="20s" repeatCount="indefinite" keyTimes="0;0.748;0.75;0.985;0.99;1" values="0;0;1;1;0;0"/><rect x="84" y="171" width="2.5" height="24" fill="#00C2A8"><animate attributeName="x" dur="20s" repeatCount="indefinite" keyTimes="0;0.75;0.85;0.96;0.99;1" values="84;84;506;506;84;84"/><animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;1;0;0;1" keyTimes="0;0.5;0.51;0.99;1"/></rect></g>
+<rect x="56" y="232" width="350" height="32" rx="16" fill="#00C2A8" fill-opacity="0.12" stroke="#00C2A8" stroke-opacity="0.6"/>
+<circle cx="76" cy="248" r="4.5" fill="#22C55E"><animate attributeName="opacity" dur="1.6s" repeatCount="indefinite" values="1;0.25;1"/></circle>
+<text x="90" y="253" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#E6EDF3" textLength="302" lengthAdjust="spacingAndGlyphs">Open to PFE · 5–6 months · Jan/Feb 2027</text>
+</svg>
