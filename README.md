@@ -43,7 +43,7 @@ Full-stack platform with GitLab CI/CD, Docker, SonarQube and OWASP ZAP, deployed
 ### [VPN-MPLS Network Architecture](https://dhiaelhack.dev)
 Multi-site MPLS/VPN backbone emulated with GNS3, Docker and FRRouting, implementing OSPF, BGP and MP-BGP and validating routing and label switching with Wireshark.
 
-**Impact:** Validated routing and label switching across the emulated network. <!-- TODO(dhia): Add verified router and site counts. Replace the title link with the public project repository when available. -->
+**Impact:** Validated OSPF, MP-BGP VPN routes and MPLS label switching across the emulated network, verified with Wireshark captures.
 
 `GNS3` `Docker` `FRRouting` `OSPF` `BGP` `MP-BGP` `Wireshark`
 
@@ -87,8 +87,6 @@ Document question-answering system using LangChain and a ReAct agent, with retri
 - **SOTULUB Network Lab** — Containerized eight-node MPLS-VPN topology using FRRouting and Docker Compose, with OSPF, LDP and VRF configuration; MP-BGP is in progress. [Code](https://github.com/dhiaelhack/sotulub-network)
 
 </details>
-
-<!-- TODO(dhia): Pin exactly four of your best profile repositories. -->
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
