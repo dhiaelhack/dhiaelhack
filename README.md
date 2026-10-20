@@ -84,7 +84,7 @@ Document question-answering system using LangChain and a ReAct agent, with retri
 - **Smart solar tracker** — Autonomous ESP32 solar orientation prototype using LDR sensors and servo motors in C/C++.
 - **Real-time GSM/GPS vehicle tracking** — SIM800L-based system for position transmission, live mapping and trip history.
 - **AI-assisted integrated antenna systems** — Literature review of AI/ML approaches applied to integrated antennas.
-- **SOTULUB network** — [Code](https://github.com/dhiaelhack/sotulub-network)
+- **SOTULUB Network Lab** — Containerized eight-node MPLS-VPN topology using FRRouting and Docker Compose, with OSPF, LDP and VRF configuration; MP-BGP is in progress. [Code](https://github.com/dhiaelhack/sotulub-network)
 
 </details>
 
