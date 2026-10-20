@@ -94,11 +94,9 @@ Document question-answering system using LangChain and a ReAct agent, with retri
 
 ## 💼 Experience
 
-| Period | Role and organization | Outcome / scope |
-|---|---|---|
-| **Jul – Aug 2026** | **Network & Systems Administration Intern** · SOTULUB (Tunisia) | Administration and supervision of network and system infrastructure; troubleshooting and maintenance. <!-- TODO(dhia): Add a measurable result from this internship. --> |
-| **Jul – Aug 2025** | **Software Development Intern, Network Supervision** · SOTETEL (Tunisia) | Developed a network supervision software component within the data center team, in collaboration with network administrators. <!-- TODO(dhia): Add a measurable result from this internship. --> |
-| **2025 – Present** | **Founder & President** · ACM Student Chapter, ENISo | Obtained official ACM chapter affiliation and established its organization; organizes technical and programming events. <!-- TODO(dhia): Add a measurable chapter outcome. --> |
+- **Jul – Aug 2026** · **Network & Systems Administration Intern** · SOTULUB (Tunisia)<br>Administration and supervision of network and system infrastructure; troubleshooting and maintenance. <!-- TODO(dhia): Add a measurable result from this internship. -->
+- **Jul – Aug 2025** · **Software Development Intern, Network Supervision** · SOTETEL (Tunisia)<br>Developed a network supervision software component within the data center team, in collaboration with network administrators. <!-- TODO(dhia): Add a measurable result from this internship. -->
+- **2025 – Present** · **Founder & President** · ACM Student Chapter, ENISo<br>Obtained official ACM chapter affiliation and established its organization; organizes technical and programming events. <!-- TODO(dhia): Add a measurable chapter outcome. -->
 
 ## 🛠️ Tech stack
 
